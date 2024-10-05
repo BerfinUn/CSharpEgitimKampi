@@ -73,7 +73,7 @@ namespace _01_MainSubjects
 
             #endregion
 
-            #region IntegerDegiskenler
+            #region Integer Degiskenler
             //int
 
             //int number = 24;
