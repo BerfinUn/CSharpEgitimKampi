@@ -104,7 +104,7 @@ namespace _02_Variables
             //Console.WriteLine();
             //Console.WriteLine("----------------------------------");
             //Console.WriteLine("Yolcu TC Kimlik No: " + passengerIdentityNumber + "Yolcu Adı Soyadı: " + passengerName + " " + passengerSurname + " " +
-            //    passengerDistrict + "/" + passengerCity + " " + passengerAge);
+            //passengerDistrict + "/" + passengerCity + " " + passengerAge);
 
             #endregion
 
