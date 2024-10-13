@@ -141,7 +141,7 @@ namespace _06_Arrays
             //}
             //Console.WriteLine(sum);
 
-            //int[] numbers = { 21, 42, 33, 54, 55, 66, 897, 748, 39, 220 };
+            //int[] numbers = { 21, 42, 33, 54, 55, 66, 897, 748, 39, 220,45 };
 
             //Console.WriteLine("Çift Sayılar");
             //Console.WriteLine();
