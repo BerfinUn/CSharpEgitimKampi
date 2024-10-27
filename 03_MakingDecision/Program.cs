@@ -31,7 +31,7 @@ namespace _03_MakingDecision
             //Console.Write("Ülkeyi Giriniz: ");
             //country = Console.ReadLine();
 
-            //if(capital=="ankara" & country == "türkiye")
+            //if (capital == "ankara" & country == "türkiye")
             //{
             //    Console.Write("Veriler Doğrulandı");
 
