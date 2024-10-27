@@ -12,7 +12,7 @@ namespace _06_Arrays
         {
             #region Temel Dizi Örnekleri
 
-            //Değişkentürü [] Diziadı = new değişkentürü[eleman sayısı]
+            //Değişkentürü[] Diziadı = new değişkentürü[eleman sayısı]
 
             //string[] colors = new string[4];
             //colors[0] = "Kırmızı";
