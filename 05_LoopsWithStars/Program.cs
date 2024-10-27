@@ -12,7 +12,7 @@ namespace _05_LoopsWithStars
         {
             #region Alt Alta 10 Tane Yıldız Oluşturma
 
-            //for(int i = 1; i <= 10; i++)
+            //for (int i = 1; i <= 10; i++)
             //{
             //    Console.WriteLine("*");
             //}
