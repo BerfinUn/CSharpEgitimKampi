@@ -12,7 +12,7 @@ namespace _07_ForeachLoop
         {
             #region Foreach Döngüsü
 
-            //Foreach(1;2;3;4)
+            //Foreach(1; 2; 3; 4)
             //1:Değişken adı
             //2:Değişken türü
             //3:In
