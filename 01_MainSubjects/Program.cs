@@ -135,7 +135,7 @@ namespace _01_MainSubjects
             //Console.WriteLine("Limonata Tutarı: " + totalLemonadePrice + "tl");
             //Console.WriteLine("Su Tutarı: " + totalWaterPrice + "tl");
             //Console.WriteLine();
-            
+
 
             //int totalPrice=totalHamburgerPrice+totalHamburgerPrice
             //    + totalPizzaPrice+totalCokePrice+totalWaterPrice;
