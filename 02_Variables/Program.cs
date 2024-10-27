@@ -159,7 +159,7 @@ namespace _02_Variables
 
             //char gender;//tek karakter olmak zorunda 
             //Console.Write("Lütfen Cinsiyet Seçiniz:");
-            //gender=char.Parse(Console.ReadLine());
+            //gender = char.Parse(Console.ReadLine());
 
             //Console.WriteLine("Seçtiğiniz Cinsiyet: " +gender);
 
