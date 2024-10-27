@@ -12,11 +12,11 @@ namespace _04_Loops
         {
             #region For Döngüsü
 
-            int i;
-            for (i = 1; i <= 5; i++)
-            {
-                Console.WriteLine("C# EĞİTİM KAMPI");
-            }
+            //int i;
+            //for (i = 1; i <= 5; i++)
+            //{
+            //    Console.WriteLine("C# EĞİTİM KAMPI");
+            //}
 
             //for(int i = 1; i <= 20; i++)
             //{
